@@ -1,4 +1,10 @@
-# server
+# Minden, ami egy szerverhez kellhet!
 
 
-Egy teljes szerverhez kellő dolgok telepítéséhz ezek kellenek majd.
+Mi kellhet egy szerverre!?
+  DHCP
+  DNS
+  SAMBA/FTP
+  VPN
+  FIREWALL
+  LDAP/ActiveDirectory
