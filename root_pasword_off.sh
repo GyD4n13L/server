@@ -1,2 +1,4 @@
-  whoami $root
-  echo '$root ALL=(ALL) NOPASSWD:ALL'>> visudo
+#! /bin/bash
+
+whoami $root
+echo '$root ALL=(ALL) NOPASSWD:ALL'>> visudo
