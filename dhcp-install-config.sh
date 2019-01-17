@@ -23,3 +23,5 @@ echo "LAN adapter name:"
       * ) echo " please answer [1], [2] or [3]";;
     esac
 done
+
+
