@@ -2,8 +2,7 @@
 
 
 Mi kellhet egy szerverre!?
- *
-DHCP
+ *DHCP
  *DNS
  *SAMBA/FTP
  *VPN
