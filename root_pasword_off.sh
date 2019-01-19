@@ -1,4 +1,4 @@
 #! /bin/bash
 
-whoami $root
+whoami root
 echo '$root ALL=(ALL) NOPASSWD:ALL'>> visudo
