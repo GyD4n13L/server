@@ -1,0 +1,41 @@
+#! /bin/bash
+
+sudo apt-get update -y
+sudo apt-get upgrade -y
+
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+echo 'DHCP Install'
+
+
+sudo apt-get install isc-dhcp-server -y
+
+
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+echo 'DNS Install'
+
+sudo apt-get install bind9 bind9utils bind9-doc
+
+
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+echo 'SAMBA Install'
+
+
+sudo apt-get install samba -y
